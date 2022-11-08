@@ -1,0 +1,1 @@
+# mpd-and-ncmpcpp-config
